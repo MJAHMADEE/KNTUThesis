@@ -91,4 +91,5 @@ Special thanks to the LaTeX community for creating the tools necessary to implem
 
 If you are looking for a different LaTeX style, check out the alternative style available here:
 
-[![Alternative LaTeX Style](https://img.shields.io/badge/Alternative_Style-Visit%20Repo-brightgreen)](https://github.com/msinamsina)
+[![Alternative LaTeX Style](https://img.shields.io/badge/Alternative_Style-Visit%20Repo-brightgreen)](https://github.com/msinamsina/kntu-thesis)
+
