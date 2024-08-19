@@ -86,3 +86,9 @@ Special thanks to the LaTeX community for creating the tools necessary to implem
 
 ### کلمات کلیدی فارسی
 قالب لتک پایان‌نامه دانشگاه خواجه نصیر، تز دکتری، تز کارشناسی ارشد، تز کارشناسی، لاتک، لتکس، لاتکس، قالب پایان نامه، دانشگاه صنعتی خواجه نصیرالدین طوسی تهران، خواجه‌نصیر
+
+## Alternative LaTeX Thesis Style
+
+If you are looking for a different LaTeX style, check out the alternative style available here:
+
+[![Alternative LaTeX Style](https://img.shields.io/badge/Alternative_Style-Visit%20Repo-brightgreen)](https://github.com/msinamsina)
