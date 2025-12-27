@@ -21,7 +21,9 @@
 \usepackage{xcolor}
 \usepackage{array}
 \usepackage{caption}
-\usepackage[perpage]{footmisc} % Reset footnote counter on each page
+\usepackage{footmisc}
+
+%\usepackage[perpage]{footmisc} % Reset footnote counter on each page
 %با فعال کردن بسته زیر فوت‌نوت‌ها در هر صفحه ریست می‌شوند. حالت پیش‌فرض آن ریست شدن در هر فصل می‌باشد.
 %\usepackage[perpage]{footmisc}
 \usepackage{enumitem}
@@ -83,6 +85,9 @@
 \usepackage{sectsty}
 % فراخوانی بسته زی‌پرشین و تعریف قلم فارسی و انگلیسی
 \usepackage{xepersian}%[extrafootnotefeatures]
+\usepackage{zref-perpage}
+\zmakeperpage{footnote}
+
 \SepMark{-}
 %حتماً از تک لایو 2014 استفاده کنید.
 \settextfont[Scale=1.2,Path=Fonts/,BoldFont=B Nazanin Bold.ttf]{B Nazanin.ttf}
